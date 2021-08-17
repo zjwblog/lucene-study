@@ -1,0 +1,12 @@
+.idea
+*DS_Store
+*.iml
+**/*.iml
+jars
+libs
+store
+logs
+target
+**/*/target
+INFO
+*.tgz

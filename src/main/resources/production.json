@@ -1,0 +1,6 @@
+[
+  {"id": 1, "name": "华为Mate40Pro智能手机至尊款", "price": 7999, "picture": "http://www.picture.com/metepro40.jpg", "description":  "自2018年苹果一次性发布三款手机之后，安卓阵营也开始跟随玩起了中杯、大杯、超大杯系列，换言之一款旗舰机型都会弄出三款机型来。三星S20系列如此、华为P40 系列如此，荣耀30系列也是如此。因此业内猜测今年的华为Mate 40系列也是如此，会有华为Mate 40、华为Mate 40 Pro、华为Mate 40 Pro+三款机型。"},
+  {"id": 2, "name": "华为P40Pro智能手机至尊款", "price": 8999, "picture": "http://www.picture.com/ppro40.jpg", "description":  "在9月3日之前业内出现的都是华为Mate 40 Pro的消息，就在今天华为Mate 40 Pro+的信息首次在网上出现。信息显示华为Mate 40 Pro+屏幕的曲率比华为Mate 40 Pro更大，至于大到什么程度没人知道。去年华为Mate 30 Pro已经是瀑布屏，屏幕的曲率接近90度，今年华为Mate 40 Pro+的曲率更大，那么它将是一块什么样的屏幕呢？当然由于超大杯所起的是炫技的作用，大家真正关注的还是华为Mate 40 Pro这款机型。"},
+  {"id": 3, "name": "华为荣耀智慧屏Pro", "price": 5999, "picture": "http://www.picture.com/zhihuiping.jpg", "description":  "来自于@数码闲聊站 的信息显示他已经见到过华为Mate 40Pro真机了，根据他的描述华为Mate 40 Pro采用的正面双挖孔屏，屏幕的曲率接近于去年的华为Mate 30 Pro。划重点：变化在于电源键、音量键全部得以保留，并且电源键还是红色的。并且华为Mate 40 Pro还是顶部对称式双扬声器，就是类似于小米10系列哪种。顶部的那个扬声器是单独开孔的，不是与听筒双合一的。看来这一次华为Mate 40 Pro的这个双扬声器效果值得期待一下，否则小米10Pro就一直霸榜了。"},
+  {"id": 4, "name": "华为magic book", "price": 6999, "picture": "http://www.picture.com/magicbook.jpg", "description":  "现在对于华为Mate 40系列来讲大家最期待的是有线和无线充电的速度，毕竟截止目前还没有传出华为有更大功率的有线、无线充电技术。因为其它品牌现在都奔100W以上快充、40W以上无线充电去了，华为总不能万年不变的40W左右吧！另外就是华为Mate 40 Pro在拍照上有什么突破，否则小米10至尊版可就独霸DxO榜首到明年了。"}
+]
