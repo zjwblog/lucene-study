@@ -15,14 +15,17 @@ import java.nio.file.Paths
  */
 object QueryDemo extends Logging {
   def main(args: Array[String]): Unit = {
-    val analyzer = new StandardAnalyzer()
-    val parser = new QueryParser("name", analyzer)
-    val query = parser.parse("华为")
+    // load 索引
     val dir = FSDirectory.open(Paths.get("store"))
     val reader = DirectoryReader.open(dir)
     val searcher = new IndexSearcher(reader)
-
-    val docs = searcher.search(query, 2).scoreDocs
+    // 构建查询
+    val analyzer = new StandardAnalyzer()
+    val parser = new QueryParser("name", analyzer)
+    val query = parser.parse("华为")
+    // 查询操作
+    val docs = searcher.search(query, 4).scoreDocs
+    // 获取结果
     docs.foreach(doc => {
       val docId: Int = doc.doc
       val document: Document = searcher.doc(docId)
